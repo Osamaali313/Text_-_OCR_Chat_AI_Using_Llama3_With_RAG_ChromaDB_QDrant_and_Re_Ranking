@@ -1,0 +1,1 @@
+# Text_-_OCR_Chat_AI_Using_Llama3_With_RAG_ChromaDB_QDrant_and_Re_Ranking
